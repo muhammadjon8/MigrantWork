@@ -1,0 +1,23 @@
+{
+  "port": 3000,
+  "dbUri": "mongodb://127.0.0.1:27017/itinfo",
+  "tokenKey": "MyVeryVery$ecretK&y1",
+  "tokenTime": 86400000,
+  "access_key": "MyAccessTokenSecretKey",
+  "refresh_key": "MyRefreshTokenSecretKey",
+  "access_time": "15m",
+  "refresh_time": "30m",
+  "refresh_ms": 186400000,
+
+  "db_name": "migrantWork",
+  "db_port": 5432,
+  "db_host": "localhost",
+  "db_password": "admin",
+  "db_username": "postgres",
+
+  "smtp_pass": "tfhstmvxnvjqxtqn",
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "smtp_user": "umuhammadjon22@gmail.com",
+  "api_uri": "http://localhost"
+}
